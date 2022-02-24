@@ -1,4 +1,0 @@
-repository "earth-defender"
-  path "/"
-    br "/main"
-    co "/main"
